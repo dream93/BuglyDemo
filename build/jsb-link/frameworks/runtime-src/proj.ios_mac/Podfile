@@ -1,0 +1,11 @@
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BuglyDemo-mobile' do
+
+pod 'Bugly'
+
+end

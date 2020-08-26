@@ -1,0 +1,6 @@
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "/Applications/CocosCreator/Creator/2.4.3-rc.1/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/ios/CCModuleConfigIOS.debug.xcconfig"
+
+#include "../Pods/Target Support Files/Pods-BuglyDemo-mobile/Pods-BuglyDemo-mobile.debug.xcconfig"
